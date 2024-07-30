@@ -1,2 +1,2 @@
-# cowsay-x-fortune-script
+# Cowsay X Fortune script
 A simple shell script that combines the functionality of the cowsay and fortune commands on linux, to create random cows saying random things
